@@ -39,7 +39,7 @@ manualspec:
     manualSpecFileSize: 784 MB
     manualSpecNoOfPages: '1662'
     manualSpecType: Service & repair manual
-imagecover: 'https://cmlp.imgix.net/Images/covers/cml/pp/p103003-1046.jpg'
+imagecover: 'https://cmlp.imgix.net/Images/covers/cml/p/103003.jpg'
 carspec:
   - id: '126658'
     itemType: block_manual_spec
@@ -84,7 +84,7 @@ sendowlmd: '<a href="https://transactions.sendowl.com/products/77664176/D450171E
 manualprice: 24.95
 isbn: '103003'
 sku: 103003
-manualtoc: '--'
+manualtoc: '---'
 manualcover: |+
   ### Models and engines covered in this BMW repair manual:
 
@@ -136,7 +136,7 @@ partialaddtocart: |
   * Manual can be used for life
   * No need to renew or pay any extra.
 series: 5-Series
-subseries: '--'
+subseries: '---'
 platform: E60 (saloon) E61 (wagon)
 bodytype: Saloon & wagon
 fueltype: Petrol
@@ -182,12 +182,13 @@ dataitemid: '103003'
 dataitemname: ' BMW  5 series | Service & repair manual |E60 (saloon) E61(wagon) | 2003 -2010 '
 dataitemprice: '24.95'
 dataitemurl: 'https://carmanualslib.com/bmw-5-series-e60-e61/'
-dataitemimage: q
+dataitemimage: 'https://cmlp.imgix.net/Images/covers/cml/s/103003.jpg'
 dataitemshippable: 'false'
 dataitemtaxable: 'false'
 dataitemfileguid: 4b3ebf5c-346c-4c53-bb50-f4191a2f9dba
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
+imagecovercatalog: 'https://cml.imgix.net/Images/covers/cml/c/103003.jpg'
 ---
 
 ###  BMW  5 series | Service & repair manual |E60 (saloon) E61(wagon) | 2003 -2010 

@@ -39,7 +39,7 @@ manualspec:
     manualSpecFileSize: 145.5 MB
     manualSpecNoOfPages: xx
     manualSpecType: Factory service & repair manual
-imagecover: 'https://cmlp.imgix.net/Images/covers/cml/pp/p103002-1041.jpg'
+imagecover: 'https://cml.imgix.net/Images/covers/cml/p/103002.jpg'
 carspec:
   - id: '124814'
     itemType: block_manual_spec
@@ -479,10 +479,10 @@ manualdescription: |+
 
   {{< pswp-init >}}
   {{< gallery title="Gallery " >}}
-  {{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1041-001.jpg" size="600x800" caption="Mercedes Benz M Class Factory service & repair manual" >}}
-  {{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1041-002.jpg" size="600x800" caption="Mercedes Benz M Class F Factory service & repair manual" >}}
-  {{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1041-003.jpg" size="600x800" caption="Mercedes Benz M Class FFactory service & repair manual" >}}
-  {{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1041-004.jpg" size="600x800" caption="Mercedes Benz M Class F Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1041-1.jpg" size="600x800" caption="Mercedes Benz M Class Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1041-2.jpg" size="600x800" caption="Mercedes Benz M Class F Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1041-3.jpg" size="600x800" caption="Mercedes Benz M Class FFactory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1041-4.jpg" size="600x800" caption="Mercedes Benz M Class F Factory service & repair manual" >}}
   {{< /gallery >}}
 
 manualyear: 1997 - 2005
@@ -552,12 +552,13 @@ dataitemid: '103002'
 dataitemname: Mercedes Benz (M-Class) ML (W163) | Service  & repair manual |1997 - 2005 | Petrol & diesel
 dataitemprice: '20.95'
 dataitemurl: 'https://carmanualslib.com/mercedes-benz-m-class-ml-w163/'
-dataitemimage: q
+dataitemimage: 'https://cml.imgix.net/Images/covers/cml/s/103002.jpg'
 dataitemshippable: 'false'
 dataitemtaxable: 'false'
 dataitemfileguid: 51eb7dff-8b17-4a46-b01c-02029589a02c
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
+imagecovercatalog: 'https://cml.imgix.net/Images/covers/cml/c/103002.jpg'
 ---
 
 ## Mercedes M Class (ML) 1997-2005 Service Manual 
@@ -570,9 +571,9 @@ The service & repair manual covers every single detail on your machine provides 
 
 {{< pswp-init >}}
 {{< gallery title="Gallery " >}}
-{{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1041-001.jpg" size="600x800" caption="Mercedes Benz M Class Factory service & repair manual" >}}
-{{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1041-002.jpg" size="600x800" caption="Mercedes Benz M Class F Factory service & repair manual" >}}
-{{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1041-003.jpg" size="600x800" caption="Mercedes Benz M Class FFactory service & repair manual" >}}
-{{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1041-004.jpg" size="600x800" caption="Mercedes Benz M Class F Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1041-1.jpg" size="600x800" caption="Mercedes Benz M Class Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1041-2.jpg" size="600x800" caption="Mercedes Benz M Class F Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1041-3.jpg" size="600x800" caption="Mercedes Benz M Class FFactory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1041-4.jpg" size="600x800" caption="Mercedes Benz M Class F Factory service & repair manual" >}}
 {{< /gallery >}}
 

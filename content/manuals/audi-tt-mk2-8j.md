@@ -61,7 +61,7 @@ manualspec:
     manualSpecFileSize: 192 MB
     manualSpecNoOfPages: '--'
     manualSpecType: Factory service & repair manual
-imagecover: 'https://cmlp.imgix.net/Images/covers/cml/pp/p103004-1040.jpg'
+imagecover: 'https://cmlp.imgix.net/Images/covers/cml/p/103004.jpg'
 carspec:
   - id: '126725'
     itemType: block_manual_spec
@@ -140,10 +140,10 @@ manualdescription: |+
 
   {{< pswp-init >}}
   {{< gallery title="Gallery " >}}
-  {{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1040-001.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
-  {{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1040-002.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
-  {{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1040-003.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
-  {{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1040-004.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1040-1.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1040-2.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1040-3.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1040-4.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
   {{< /gallery >}}
 
 manualyear: '2006 - 2014 '
@@ -213,12 +213,13 @@ dataitemid: '103004'
 dataitemname: 'Audi TT (MK2) Workshop manual (8J) | 2006 - 2014 Roadster + Coupe '
 dataitemprice: '24.95'
 dataitemurl: 'https://carmanualslib.com/audi-tt-mk2-8j/'
-dataitemimage: q
+dataitemimage: 'https://cml.imgix.net/Images/covers/cml/s/103004.jpg'
 dataitemshippable: 'false'
 dataitemtaxable: 'true'
 dataitemfileguid: db4fe168-16f5-4609-abdc-a593c3c1dc4c
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
+imagecovercatalog: 'https://cml.imgix.net/Images/covers/cml/c/103004.jpg'
 ---
 
 ### Audi TT (MK2) Workshop manual (8J) | 2006 - 2014 Roadster + Coupe 
@@ -240,9 +241,9 @@ very repair and service procedure is covered.
 
 {{< pswp-init >}}
 {{< gallery title="Gallery " >}}
-{{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1040-001.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
-{{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1040-002.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
-{{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1040-003.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
-{{< figure link="https://cmlp.imgix.net/Images/covers/gcm/preview/pr1040-004.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1040-1.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1040-2.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1040-3.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1040-4.jpg" size="600x800" caption="Audi TT Factory service & repair manual" >}}
 {{< /gallery >}}
 
