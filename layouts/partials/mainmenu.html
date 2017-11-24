@@ -107,7 +107,17 @@
             </div>
           </div>
           <div class="pure-u-6-24 text-right" style="margin-top: 11px;">
-            <input type="text" class="form-control" placeholder="Search Manual">
+            {{ if .IsHome }}
+              <input type="text" id="searchbox" class="form-control" placeholder="Search Manual">
+            {{else}}
+              {{if eq .Title "Bmw"}}
+                <input type="text" id="searchbox" class="form-control" placeholder="Search Manual">
+              {{else if eq .Title "Audi"}}
+                <input type="text" id="searchbox" class="form-control" placeholder="Search Manual">
+              {{else if eq .Title "Mercedes"}}
+                <input type="text" id="searchbox" class="form-control" placeholder="Search Manual">
+              {{end}}
+            {{end}}
           </div>
         </div>
         <!-- <div class="pure-menu pure-menu-horizontal pure-menu-scrollable" style="margin-top:-16px;">
