@@ -39,7 +39,7 @@ manualspec:
     manualSpecFileSize: 145.5 MB
     manualSpecNoOfPages: xx
     manualSpecType: Factory service & repair manual
-imagecover: 'https://cml.imgix.net/Images/covers/cml/p/103002.jpg'
+imagecover: 'https://cmlp.imgix.net/Images/covers/cml/p/103002.jpg'
 carspec:
   - id: '124814'
     itemType: block_manual_spec
@@ -550,7 +550,7 @@ downloadspecs:
 relatedmanual: []
 dataitemid: '103002'
 dataitemname: Mercedes Benz (M-Class) ML (W163) | Service  & repair manual |1997 - 2005 | Petrol & diesel
-dataitemprice: '20.95'
+dataitemprice: '14.95'
 dataitemurl: 'https://carmanualslib.com/mercedes-benz-m-class-ml-w163/'
 dataitemimage: 'https://cml.imgix.net/Images/covers/cml/s/103002.jpg'
 dataitemshippable: 'false'
@@ -558,7 +558,7 @@ dataitemtaxable: 'false'
 dataitemfileguid: 51eb7dff-8b17-4a46-b01c-02029589a02c
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
-imagecovercatalog: 'https://cml.imgix.net/Images/covers/cml/c/103002.jpg'
+imagecovercatalog: 'https://cmlc.imgix.net/Images/covers/cml/c/103002.jpg'
 ---
 
 ## Mercedes M Class (ML) 1997-2005 Service Manual 

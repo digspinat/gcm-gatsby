@@ -215,16 +215,16 @@ sku: 103007
 manualtoc: "\t--"
 manualcover: |-
   |Model|Years|Engine|Power|Torque|
-  | --- | --- | --- |  --- |
+  | --- | --- | --- |  --- | --- |
   |325i (EU) / 325ci (EU)|2001–2006|M54B25|141 kW (189 hp)|245 N·m (181 lb·ft)|
-  |325i (US) / 325ci (US)|137 kW (184 hp)|237 N·m (175 lb·ft)|
+  |325i (US) / 325ci (US)|2001–2006|M54B25|137 kW (184 hp)|237 N·m (175 lb·ft)|
   |328i / 328ci|1998–2000|M52TUB28|142 kW (190 hp)|280 N·m (207 lb·ft)|
   |330i (EU) /330ci (EU)|2000–2006|M54B30|170 kW (228 hp)|300 N·m (221 lb·ft)|
-  |330i (US) / 330ci (US)|168 kW (225 hp)|290 N·m (214 lb·ft)|
-  |330i ZHP /330ci |2003–2006|175 kW (235 hp)|301 N·m (222 lb·ft)|
+  |330i (US) / 330ci (US)|2000–2006|M54B30|168 kW (225 hp)|290 N·m (214 lb·ft)|
+  |330i ZHP /330ci |2003–2006|2000–2006|M54B30|175 kW (235 hp)|301 N·m (222 lb·ft)|
   |M3 (EU)|2000–2006|S54B32|252 kW (338 hp)|365 N·m (269 lb·ft)|
-  |M3 (US)|248 kW (333 hp)|355 N·m (262 lb·ft)|
-  |M3 CSL|2003–2004|265 kW (355 hp)|370 N·m (273 lb·ft)|
+  |M3 (US)|2000–2006|S54B32|248 kW (333 hp)|355 N·m (262 lb·ft)|
+  |M3 CSL|2003–2004|S54B32|265 kW (355 hp)|370 N·m (273 lb·ft)|
 manualdescription: |-
   ### This BMW E46 workshop manual is your number one source for repair and service information. 
 
@@ -268,15 +268,15 @@ downloadspecs: []
 relatedmanual: []
 dataitemid: '103007'
 dataitemname: BMW E46 (3 Series) | Service & repair manual | 1999 -2005
-dataitemprice: '19.95'
+dataitemprice: '14.95'
 dataitemurl: 'https://carmanualslib.com/bmw-e46-3-series'
-dataitemimage: 'https://cml.imgix.net/Images/covers/cml/s/103007.jpg'
+dataitemimage: 'https://cmls.imgix.net/Images/covers/cml/s/103007.jpg'
 dataitemshippable: 'false'
 dataitemtaxable: 'false'
 dataitemfileguid: 530cf898-025a-4429-a736-1a5da75c4b0f
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
-imagecovercatalog: 'https://cml.imgix.net/Images/covers/cml/c/103007.jpg'
+imagecovercatalog: 'https://cmlc.imgix.net/Images/covers/cml/c/103007.jpg'
 ---
 
 ### This BMW E46 workshop manual is your number one source for repair and service information. 

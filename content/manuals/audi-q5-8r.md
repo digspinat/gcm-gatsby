@@ -236,9 +236,9 @@ manualdescription: |-
   {{< pswp-init >}}
   {{< gallery title="Gallery " >}}
   {{< figure link="https://cml.imgix.net/Images/preview/1045-1.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
-  {{< figure link="https://cml.imgix.net/Images/preview/1045-1.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
-  {{< figure link="https://cml.imgix.net/Images/preview/1045-1.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
-  {{< figure link="https://cml.imgix.net/Images/preview/1045-1.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1045-2.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1045-3.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1045-4.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
   {{< /gallery >}}
 manualyear: '2009 - 2017 '
 gsTitle: '---'
@@ -305,7 +305,7 @@ downloadspecs:
 relatedmanual: []
 dataitemid: '103005'
 dataitemname: 'Audi Q5 (8R) |Repair & service manual | 2009 - 2017 '
-dataitemprice: '24.95'
+dataitemprice: '14.95'
 dataitemurl: 'https://carmanualslib.com/audi-q5-8r/'
 dataitemimage: 'https://cml.imgix.net/Images/covers/cml/s/103005.jpg'
 dataitemshippable: 'false'
@@ -313,7 +313,7 @@ dataitemtaxable: 'true'
 dataitemfileguid: 3625a154-0f86-4665-9f00-b401bee773a0
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
-imagecovercatalog: 'https://cml.imgix.net/Images/covers/cml/c/103005.jpg'
+imagecovercatalog: 'https://cmlc.imgix.net/Images/covers/cml/c/103005.jpg'
 ---
 
 This is the exact same workshop manual used by technicians at the dealerships to maintain, service, diagnose and repair your vehicle.
@@ -325,7 +325,7 @@ This high quality Service Repair Workshop Manual covers all repair procedures A-
 {{< pswp-init >}}
 {{< gallery title="Gallery " >}}
 {{< figure link="https://cml.imgix.net/Images/preview/1045-1.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
-{{< figure link="https://cml.imgix.net/Images/preview/1045-1.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
-{{< figure link="https://cml.imgix.net/Images/preview/1045-1.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
-{{< figure link="https://cml.imgix.net/Images/preview/1045-1.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1045-2.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1045-3.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1045-4.jpeg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
 {{< /gallery >}}

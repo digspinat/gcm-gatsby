@@ -251,7 +251,7 @@ partialaddtocart: |
   * Manual can be used for life
   * No need to renew or pay any extra.
 series: A4
-subseries: '--'
+subseries: '---'
 platform: B8 - 8K
 bodytype: Sedan & Avant
 fueltype: Petrol & diesel
@@ -259,7 +259,7 @@ downloadspecs: []
 relatedmanual: []
 dataitemid: '103006'
 dataitemname: Audi a4 service & repair manual | 2008 - 2014 | B8 - 8K
-dataitemprice: '24.95'
+dataitemprice: '14.95'
 dataitemurl: 'https://carmanualslib.com/audi-a4-b8-8k'
 dataitemimage: 'https://cml.imgix.net/Images/covers/cml/s/103006.jpg'
 dataitemshippable: 'false'
@@ -267,7 +267,7 @@ dataitemtaxable: 'false'
 dataitemfileguid: 174889c7-05a9-404c-9fde-1588c6eb2d43
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
-imagecovercatalog: 'https://cml.imgix.net/Images/covers/cmlc/c/103006.jpg'
+imagecovercatalog: 'https://cmlc.imgix.net/Images/covers/cml/c/103006.jpg'
 ---
 
 # Audi a4 workshop manual | 2008 - 2014 | B8 - 8K

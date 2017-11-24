@@ -180,15 +180,15 @@ downloadspecs:
 relatedmanual: []
 dataitemid: '103003'
 dataitemname: ' BMW  5 series | Service & repair manual |E60 (saloon) E61(wagon) | 2003 -2010 '
-dataitemprice: '24.95'
+dataitemprice: '14.95'
 dataitemurl: 'https://carmanualslib.com/bmw-5-series-e60-e61/'
-dataitemimage: 'https://cmlp.imgix.net/Images/covers/cml/s/103003.jpg'
+dataitemimage: 'https://cmls.imgix.net/Images/covers/cml/s/103003.jpg'
 dataitemshippable: 'false'
 dataitemtaxable: 'false'
 dataitemfileguid: 4b3ebf5c-346c-4c53-bb50-f4191a2f9dba
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
-imagecovercatalog: 'https://cml.imgix.net/Images/covers/cml/c/103003.jpg'
+imagecovercatalog: 'https://cmlc.imgix.net/Images/covers/cml/c/103003.jpg'
 ---
 
 ###  BMW  5 series | Service & repair manual |E60 (saloon) E61(wagon) | 2003 -2010 

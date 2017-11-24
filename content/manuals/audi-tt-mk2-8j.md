@@ -211,15 +211,15 @@ downloadspecs:
 relatedmanual: []
 dataitemid: '103004'
 dataitemname: 'Audi TT (MK2) Workshop manual (8J) | 2006 - 2014 Roadster + Coupe '
-dataitemprice: '24.95'
+dataitemprice: '14.95'
 dataitemurl: 'https://carmanualslib.com/audi-tt-mk2-8j/'
-dataitemimage: 'https://cml.imgix.net/Images/covers/cml/s/103004.jpg'
+dataitemimage: 'https://cmsl.imgix.net/Images/covers/cml/s/103004.jpg'
 dataitemshippable: 'false'
 dataitemtaxable: 'true'
 dataitemfileguid: db4fe168-16f5-4609-abdc-a593c3c1dc4c
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
-imagecovercatalog: 'https://cml.imgix.net/Images/covers/cml/c/103004.jpg'
+imagecovercatalog: 'https://cmlc.imgix.net/Images/covers/cml/c/103004.jpg'
 ---
 
 ### Audi TT (MK2) Workshop manual (8J) | 2006 - 2014 Roadster + Coupe 

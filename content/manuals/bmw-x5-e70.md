@@ -213,22 +213,9 @@ manualprice: 24.95
 isbn: '103001'
 sku: 103001
 manualtoc: "\t\t--"
-manualcover: |-
-  ### Models and engines covered in this BMW repair manual:
-
-  | Model | Years | Engine code|  Power| Torque |
-  | --- | --- | --- |  --- |  --- |
-  | 3.0si | 2007–2008 | N52B30 | 265 PS (195 kW; 261 hp)@6650 | 315 N·m (232 lb·ft) @2750|
-  | xDrive30i | 2007–2008 | N52B30 | 265 PS (195 kW; 261 hp)@6650 | 315 N·m (232 lb·ft) @2750|
-  | xDrive35i | 2007–2008 | N52B30 | 265 PS (195 kW; 261 hp)@6650 | 315 N·m (232 lb·ft) @2750|
-  | xDrive48i | 2007–2008 | N52B30 | 265 PS (195 kW; 261 hp)@6650 | 315 N·m (232 lb·ft) @2750|
-  | xDrive50i | 2007–2008 | N52B30 | 265 PS (195 kW; 261 hp)@6650 | 315 N·m (232 lb·ft) @2750|
-  | M | 2007–2008 | N52B30 | 265 PS (195 kW; 261 hp)@6650 | 315 N·m (232 lb·ft) @2750|
-  | 3.0d | 2007–2008 | N52B30 | 265 PS (195 kW; 261 hp)@6650 | 315 N·m (232 lb·ft) @2750|
-  | xDrive30d | 2007–2008 | N52B30 | 265 PS (195 kW; 261 hp)@6650 | 315 N·m (232 lb·ft) @2750|
-   
+manualcover: "### Models and engines covered in this BMW repair manual:\n\n| Model | Years | Engine code|  Power| Torque |\n| --- | --- | --- |  --- |  --- |\n| 3.0si | 2007–2008 | N52B30 | 265 PS (195 kW; 261 hp)@6650 | 315 N·m (232 lb·ft) @2750|\n| xDrive30i | 2009–2010 | N55B30 | 265 PS (195 kW; 261 hp)@6650 | 315 N·m (232 lb·ft) @2750|\n| xDrive35i | 2011–2013 | N52B30 | 306\_PS (225\_kW; 302\_hp)@5800[ | 400\_N·m (300\_lb·ft) @1200–5000|\n| 48i | 2007–2008 | N62B48 | 355\_PS (261\_kW; 350\_hp)@6300 | 3485\_N·m (358\_lb·ft)@3400–3800|\n| xDrive48i | 2009–2010 | N62B48 | 355\_PS (261\_kW; 350\_hp)@6300 | 3485\_N·m (358\_lb·ft)@3400–3800|\n| xDrive50i | 2011–2013 | N63B44 | 408\_PS (300\_kW; 402\_hp)@5500-6400 | 610\_N·m (450\_lb·ft) @1750–4500|\n| M | 2010-2013 | S63B44 | 555\_PS (408\_kW; 547\_hp)@6000 | 680\_N·m (500\_lb·ft) @1500–5650|\n| 3.0d | 2007–2008 | M57TU2D30 | 235\_PS (173\_kW; 232\_hp)@4000 | 520\_N·m (380\_lb·ft) @2000–2750|\n| xDrive3.0d | 2009–2010 | M57TU2D30 | 235\_PS (173\_kW; 232\_hp)@4000 | 520\_N·m (380\_lb·ft) @2000–2750|\n| 3.0sd| 2007–2008 | M57TU2D30 | 235\_PS (173\_kW; 232\_hp)@4000 | 520\_N·m (380\_lb·ft) @2000–2750|\n| xDrive35d| 2009–2010 | M57TU2D30 | 235\_PS (173\_kW; 232\_hp)@4000 | 520\_N·m (380\_lb·ft) @2000–2750|\n| xDrive35d| 2009–2013 | M57Y | 269\_PS (198\_kW; 265\_hp)@4200| 576\_N·m (425\_lb·ft) @1750|\n| xDrive30d | 2011–2013 | N57 | 306\_PS (225\_kW; 302\_hp)@4400 | 600\_N·m (440\_lb·ft) @1500–2500|\n| M50d | 2013| N57 | 381\_PS (280\_kW; 376\_hp)@4400 | 740\_N·m (550\_lb·ft) @2000–3000|"
 manualdescription: |-
-  ### 1039 BMW X5 (E70) | Service & repair manual | 2006 - 2013
+  ###  BMW X5 (E70) | Service & repair manual | 2006 - 2013
 
   **This manual contains**
 
@@ -316,7 +303,7 @@ downloadspecs:
 relatedmanual: []
 dataitemid: '103001'
 dataitemname: BMW X5 (E70) | Service & repair manual | 2006 - 2013
-dataitemprice: '27.95'
+dataitemprice: '14.95'
 dataitemurl: 'https://carmanualslib.com/bmw-x5-e70/'
 dataitemimage: 'https://cml.imgix.net/Images/covers/cml/s/103001.jpg'
 dataitemshippable: 'false'
@@ -324,10 +311,10 @@ dataitemtaxable: 'false'
 dataitemfileguid: f78696e5-bbdf-41e8-882a-9ba8e061f8e9
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
-imagecovercatalog: 'https://cml.imgix.net/Images/covers/cml/c/103001.jpg'
+imagecovercatalog: 'https://cmlc.imgix.net/Images/covers/cml/c/103001.jpg'
 ---
 
-### 1039 BMW X5 (E70) | Service & repair manual | 2006 - 2013
+###  BMW X5 (E70) | Service & repair manual | 2006 - 2013
 
 **This manual contains**
 

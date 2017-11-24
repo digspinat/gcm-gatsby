@@ -1,5 +1,5 @@
 ---
-title: BMW E90/E91/E93/ Service and repair manual | 2004-2013
+title: BMW E90/E91/E92/E93/ Service and repair manual | 2004-2013
 previewpdf:
   - id: '129855'
     itemType: images_preview
@@ -213,8 +213,8 @@ manualprice: 24.95
 isbn: '103008'
 sku: 103008
 manualtoc: xx
-manualcover: xx
-manualdescription: |-
+manualcover: "| Model | Years | Engine code|  Power| Torque |\n| --- | --- | --- |  --- |  --- |\n| 323i| 2005–2007 | N52B25| 130\_kW (174\_hp)| 230\_N·m (170\_lb·ft)|\n| 323i| 2007–2013 | N52B25| 149\_kW (200\_hp) | 244\_N·m (180\_lb·ft)|\n| 325i| 2005–2007 | N52B25O1| 160\_kW (215\_hp)| 250\_N·m (184\_lb·ft)|\n| 325i| 2007–2013 | N53B30U0| 160\_kW (215\_hp) | 270\_N·m (199\_lb·ft)|\n| 328i| 2007–2013 | N52B30| 172\_kW (231\_hp) | 271\_N·m (200\_lb·ft)|\n| 330i| 2005–2007 | N52B30| 190\_kW (255\_hp)| 300\_N·m (221\_lb·ft)|\n| 330i| 2007–2013 | N52B30| 200\_kW (268\_hp)| 320\_N·m (236\_lb·ft)|\n| 335i| 2006–2009 | N54B30O0| 225\_kW (302\_hp) | 400\_N·m (295\_lb·ft)|\n| 335i| 2009–2013 | N55B30| 225\_kW (302\_hp) | 400\_N·m (295\_lb·ft)|\n| 335is| 2007–2013 | N54B30T0| 240\_kW (322\_hp) | 500\_N·m (369\_lb·ft)|\n| M3 |2007–2013 | S65B40| 309\_kW (414\_hp) | 400\_N·m (295\_lb·ft)|\n"
+manualdescription: |
   ###  BMW E90/E91/E92/E93 | Service & repair manual | 2004- 2013
 
   The body styles of the range are:
@@ -237,6 +237,14 @@ manualdescription: |-
   For the owner with basic mechanical skills and for independant auto service professionals, this manual includes the same specifications and procedures available to an authorised dealer service department. 
 
   The car owner with no intention of working on his or her car will find that owning and referring to this manual makes it possible to be better informed and to more knowledgeably discuss repairs with an automotive technician. 
+
+  {{< pswp-init >}}
+  {{< gallery title="Gallery " >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1055-1.jpg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1055-2.jpg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1055-3.jpg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+  {{< figure link="https://cml.imgix.net/Images/preview/1055-4.jpg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+  {{< /gallery >}}
 manualyear: 2004  -2013
 gsTitle: BMW E90/E91/E93/ Service and repair manual | 2004-2013
 type: product
@@ -266,7 +274,7 @@ downloadspecs: []
 relatedmanual: []
 dataitemid: '103008'
 dataitemname: BMW E90/E91/E93/ Service and repair manual | 2004-2013
-dataitemprice: '24.95'
+dataitemprice: '14.95'
 dataitemurl: 'https://carmanualslib.com/bmw-e90-e91-e93'
 dataitemimage: 'https://cml.imgix.net/Images/covers/cml/s/103008.jpg'
 dataitemshippable: 'false'
@@ -274,7 +282,7 @@ dataitemtaxable: 'false'
 dataitemfileguid: f5178e39-1e5f-489f-8973-6713109e7bcc
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
-imagecovercatalog: 'https://cml.imgix.net/Images/covers/cml/c/103008.jpg'
+imagecovercatalog: 'https://cmlc.imgix.net/Images/covers/cml/c/103008.jpg'
 ---
 
 ###  BMW E90/E91/E92/E93 | Service & repair manual | 2004- 2013
@@ -299,3 +307,11 @@ To completely repair your vehicle with ease.
 For the owner with basic mechanical skills and for independant auto service professionals, this manual includes the same specifications and procedures available to an authorised dealer service department. 
 
 The car owner with no intention of working on his or her car will find that owning and referring to this manual makes it possible to be better informed and to more knowledgeably discuss repairs with an automotive technician. 
+
+{{< pswp-init >}}
+{{< gallery title="Gallery " >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1055-1.jpg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1055-2.jpg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1055-3.jpg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+{{< figure link="https://cml.imgix.net/Images/preview/1055-4.jpg" size="600x800" caption="Audi Q5 Factory service & repair manual" >}}
+{{< /gallery >}}

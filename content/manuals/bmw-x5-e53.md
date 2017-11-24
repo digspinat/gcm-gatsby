@@ -169,7 +169,7 @@ fueltype: Petrol & diesel
 downloadspecs:
   - id: '129445'
     itemType: partial_download
-    updatedAt: '2017-11-11T11:56:13.213Z'
+    updatedAt: '2017-11-18T17:00:02.678Z'
     seoMetaTags:
       - tagName: title
         content: '1050'
@@ -188,7 +188,7 @@ downloadspecs:
       - tagName: meta
         attributes:
           property: 'article:modified_time'
-          content: '2017-11-11T11:56:13Z'
+          content: '2017-11-18T17:00:02Z'
       - tagName: meta
         attributes:
           property: 'og:locale'
@@ -199,14 +199,14 @@ downloadspecs:
           content: article
     position: 17
     downloadListItems: |-
-      Delivery: Instant Download!!
-      Requirements: Adobe PDF Reader & WinZip
-      Compatible: All Versions of Windows & Mac
+      * Delivery: Instant Download!!
+      * Requirements: Adobe PDF Reader & WinZip
+      * Compatible: All Versions of Windows & Mac
     downloadId: '1050'
 relatedmanual: []
 dataitemid: '103009'
 dataitemname: BMW X5 (E53) | Service & repair manual | 1999 - 2006
-dataitemprice: '22.95'
+dataitemprice: '14.95'
 dataitemurl: 'https://carmanualslib.com/bmw-x5-e53'
 dataitemimage: 'https://cml.imgix.net/Images/covers/cmls/s/103009.jpg'
 dataitemshippable: 'false'
@@ -214,7 +214,7 @@ dataitemtaxable: 'false'
 dataitemfileguid: cccc
 dataitemcustomname: Format
 dataitemcustomoptions: 'Instant download |USB Stick [+59.00]'
-imagecovercatalog: 'https://cml.imgix.net/Images/covers/cmlp/c/103009.jpg'
+imagecovercatalog: 'https://cmlc.imgix.net/Images/covers/cml/c/103009.jpg'
 ---
 
 ### This workshop manual is your number one source for repair and service information. 
